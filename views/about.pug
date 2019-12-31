@@ -1,0 +1,43 @@
+extends layout.pug
+
+block content 
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+
+        h1 Windesson Almeida
+
+        p.lead.text-light
+          | Full Stack Developer.
+
+        .portfolio-bio
+          p
+            | With over five years experience in diverse areas of IT. Graduated with bachelor in computer engineering 
+            | and ever since I have hold positions as System Engineer, Network Designer, Computer Programmer, 
+            | Back-End Windows Application Developer. Recently, I have been learning server and client side 
+            | JavaScript to build more cool stuff and share it in Github.
+             
+      .cell.portfolio-meta.small-6.medium-2.large-3
+        h6 Skills
+
+        ul
+          li Software Design Patterns
+          li Express Framework
+          li Ajax, Promise, Fetch
+          li JQquery, Git
+          li Node JS, Lambda 
+          li Other cool stuff
+        h6 Contact Info
+
+        ul
+          li 954-263-3064
+          li walme004@gmail.com
+
+        //- Add URLs to the hrefs below to link to your social media accounts.
+        a.button.expanded(href='https://www.linkedin.com/in/windessonalmeida/',target="_blank") LinkedIn
+        a.button.expanded(href='https://github.com/windesson',target="_blank") GitHub
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  
