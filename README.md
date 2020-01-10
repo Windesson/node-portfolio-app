@@ -9,6 +9,6 @@ From this project root directory
 
 Then navigate to http://localhost:3000
 
-herokuapp Live 
----------
-https://windesson-portfolio-app.herokuapp.com/
+Heroku Live 
+--------------
+https://windesson.herokuapp.com/
