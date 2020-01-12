@@ -5,8 +5,8 @@
              "project_name": "Random Quote Generator",
              "description": "A program that displays a randomly selected quote each time the user clicks a button.",
              "technologies": ["JavaScript", "Ajax", "DOM"],
-             "live_link": "https://javascript-techdegree.github.io/JavaScript-Techdegree.randomQuoteGenerator.io/",
-             "github_link": "https://github.com/JavaScript-Techdegree/JavaScript-Techdegree.randomQuoteGenerator.io",
+             "live_link": "https://windesson.github.io/windesson.randomQuoteGenerator.io/",
+             "github_link": "https://github.com/Windesson/windesson.randomQuoteGenerator.io.git",
              "image_urls": [
                             "/static/img/random-quote-generator/random-quote-generator-1200x550-001.png",
                             "/static/img/random-quote-generator/random-quote-generator-1200x550-002.png"
@@ -18,8 +18,8 @@
              "project_name": "Student filter pagination",
              "description": "A JavaScript project to divide a long list into a series of 'pages' and improve the user experience of a web page. Pagination links display based on how many search results are returned. For example: if 10 or fewer results are returned, 0 or 1 pagination links are displayed. If 22 search results are returned, 3 pagination links are displayed",
              "technologies": ["JavaScript", "CSS Selectors", "DOM Manipulation"],
-             "live_link": "https://javascript-techdegree.github.io/JavaScript-Techdegree.student-filter-pagination.io/",
-             "github_link": "https://github.com/JavaScript-Techdegree/JavaScript-Techdegree.student-filter-pagination.io",
+             "live_link": "https://windesson.github.io/windesson.filter-pagination.io/",
+             "github_link": "https://github.com/Windesson/windesson.filter-pagination.io.git",
              "image_urls": [
                 "/static/img/student-filter-pagination/student-filter-pagination-1200x550-001.png",
                 "/static/img/student-filter-pagination/student-filter-pagination-1200x550-002.png"
@@ -31,8 +31,8 @@
              "project_name": "Interactive-form",
              "description": "This project uses interactive registration form for a fictional conference called 'FullStack Conf'. Validates user input and providing helpful error messages when the user enters invalid information into the form fields. Additionally, users cannot select two activities that are at the same time.",
              "technologies": ["JavaScript", "JQuery", "HTML", "lambda functions"],
-             "live_link": "https://javascript-techdegree.github.io/JavaScript-Techdegree.interactive-form.io/",
-             "github_link": "https://github.com/JavaScript-Techdegree/JavaScript-Techdegree.interactive-form.io",
+             "live_link": "https://windesson.github.io/windesson.interactive-form.io/",
+             "github_link": "https://github.com/Windesson/windesson.interactive-form.io.git",
              "image_urls": [
                 "/static/img/interactive-form/interactive-form-1200x550-001.png",
                 "/static/img/interactive-form/interactive-form-1200x550-002.png"
@@ -44,8 +44,8 @@
              "project_name": "Phrase-hunter",
              "description": "This projects creates a browser-based, word guessing game: 'Phrase Hunter'. It uses JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
              "technologies": ["JavaScript", "OOP", "JQuery"],
-             "live_link": "https://javascript-techdegree.github.io/JavaScript-Techdegree.phrase-hunter.io/",
-             "github_link": "https://github.com/JavaScript-Techdegree/JavaScript-Techdegree.phrase-hunter.io",
+             "live_link": "https://windesson.github.io/windesson.phrase-hunter.io/",
+             "github_link": "https://github.com/Windesson/windesson.phrase-hunter.io.git",
              "image_urls": [
                 "/static/img/phrase-hunter/phrase-hunter-1200x550-001.png",
                 "/static/img/phrase-hunter/phrase-hunter-1200x550-002.png",
@@ -60,8 +60,8 @@
              "project_name": "Awesome Startup",
              "description": "App for employees to share contact information with each other. It displays 12 users from the Random User API, and includes their personal information. Functionality has been added to switch back and forth between employees when the detail modal window is open. Employees can be filtered by name with dynamically added search feature.",
              "technologies": ["JavaScript", "JSON", "jQuery", "Ajax"],
-             "live_link": "https://javascript-techdegree.github.io/JavaScript-Techdegree.startup-employee-api.io/",
-             "github_link": "https://github.com/JavaScript-Techdegree/JavaScript-Techdegree.startup-employee-api.io",
+             "live_link": "https://windesson.github.io/windesson.startup-employee-api.io/",
+             "github_link": "https://github.com/Windesson/windesson.startup-employee-api.io.git",
              "image_urls": [
                 "/static/img/awesome-startup/awesome-startup-1200x550-001.png",
                 "/static/img/awesome-startup/awesome-startup-1200x550-002.png",
