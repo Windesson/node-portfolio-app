@@ -68,6 +68,18 @@
                 "/static/img/awesome-startup/awesome-startup-1200x550-003.png"
              ],
              "main_shot_image_url": "/static/img/awesome-startup/awesome-startup-550x550.png"
+        },
+                {
+            "id": 218620000,
+             "project_name": "GIF Search App",
+             "description": "A React app to display the GIF search results",
+             "technologies": ["React","JavaScript", "Ajax"],
+             "live_link": "https://windesson.github.io/react-gif-search/",
+             "github_link": "https://github.com/Windesson/react-gif-search.git",
+             "image_urls": [
+                            "/static/img/react-gif/react-gif-search-1200x550.jpg"
+                        ],
+             "main_shot_image_url": "/static/img/react-gif/react-gif-search-550x550.jpg"
         }
     ] 
 }
