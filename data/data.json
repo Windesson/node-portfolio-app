@@ -1,17 +1,28 @@
 {
     "projects": [
         {
-            "id": 218620824,
-             "project_name": "Random Quote Generator",
-             "description": "A program that displays a randomly selected quote each time the user clicks a button.",
-             "technologies": ["JavaScript", "Ajax", "DOM"],
-             "live_link": "https://windesson.github.io/windesson.randomQuoteGenerator.io/",
-             "github_link": "https://github.com/Windesson/windesson.randomQuoteGenerator.io.git",
+            "id": 218610000,
+             "project_name": "React Gallery App",
+             "description": "A React app to fetch and display photos from the flickr api",
+             "technologies": ["React","JavaScript", "Axios"],
+             "live_link": "#",
+             "github_link": "https://github.com/Windesson/react-gallery-app.git",
              "image_urls": [
-                            "/static/img/random-quote-generator/random-quote-generator-1200x550-001.png",
-                            "/static/img/random-quote-generator/random-quote-generator-1200x550-002.png"
+                            "/static/img/react-gallery/react-gallery-app-1200x550.png"
                         ],
-             "main_shot_image_url": "/static/img/random-quote-generator/random-quote-generator-550x550.png"
+             "main_shot_image_url": "/static/img/react-gallery/react-gallery-app-550x550.png"
+        },
+        {
+            "id": 218620000,
+             "project_name": "React GIF App",
+             "description": "A React app to display the GIF search results",
+             "technologies": ["React","JavaScript", "Ajax"],
+             "live_link": "https://windesson.github.io/react-gif-search/",
+             "github_link": "https://github.com/Windesson/react-gif-search.git",
+             "image_urls": [
+                            "/static/img/react-gif/react-gif-search-1200x550.jpg"
+                        ],
+             "main_shot_image_url": "/static/img/react-gif/react-gif-search-550x550.jpg"
         },
         {
             "id": 219624634,
@@ -69,17 +80,18 @@
              ],
              "main_shot_image_url": "/static/img/awesome-startup/awesome-startup-550x550.png"
         },
-                {
-            "id": 218620000,
-             "project_name": "GIF Search App",
-             "description": "A React app to display the GIF search results",
-             "technologies": ["React","JavaScript", "Ajax"],
-             "live_link": "https://windesson.github.io/react-gif-search/",
-             "github_link": "https://github.com/Windesson/react-gif-search.git",
+        {
+            "id": 218620824,
+             "project_name": "Random Quote Generator",
+             "description": "A program that displays a randomly selected quote each time the user clicks a button.",
+             "technologies": ["JavaScript", "Ajax", "DOM"],
+             "live_link": "https://windesson.github.io/windesson.randomQuoteGenerator.io/",
+             "github_link": "https://github.com/Windesson/windesson.randomQuoteGenerator.io.git",
              "image_urls": [
-                            "/static/img/react-gif/react-gif-search-1200x550.jpg"
+                            "/static/img/random-quote-generator/random-quote-generator-1200x550-001.png",
+                            "/static/img/random-quote-generator/random-quote-generator-1200x550-002.png"
                         ],
-             "main_shot_image_url": "/static/img/react-gif/react-gif-search-550x550.jpg"
+             "main_shot_image_url": "/static/img/random-quote-generator/random-quote-generator-550x550.png"
         }
     ] 
 }
