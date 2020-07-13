@@ -92,6 +92,21 @@
                             "/static/img/random-quote-generator/random-quote-generator-1200x550-002.png"
                         ],
              "main_shot_image_url": "/static/img/random-quote-generator/random-quote-generator-550x550.png"
+        },
+        {
+            "id": 218620825,
+             "project_name": "Real-Time Flight Prices",
+             "description": "A Web App implementing web services to provide user with ability to inquire for real-time flight prices.",
+             "technologies": ["JavaScript", "C#", "ASP.NET API"],
+             "live_link": "http://realtimeflightprices.azurewebsites.net/",
+             "github_link": "https://github.com/Windesson/RealTimeFlightPrices.git",
+             "image_urls": [
+                            "/static/img/realtime-flights/twoway.jpg",
+                            "/static/img/realtime-flights/oneway.jpg",
+                            "/static/img/realtime-flights/noresult.jpg",
+                            "/static/img/realtime-flights/unsupported.jpg"
+                        ],
+             "main_shot_image_url": "/static/img/realtime-flights/main-550x550.jpg"
         }
     ] 
 }
