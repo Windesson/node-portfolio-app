@@ -106,7 +106,7 @@
                             "/static/img/realtime-flights/noresult.jpg",
                             "/static/img/realtime-flights/unsupported.jpg"
                         ],
-             "main_shot_image_url": "/static/img/realtime-flights/main-550x550.jpg"
+             "main_shot_image_url": "/static/img/realtime-flights/main-550x550.png"
         }
     ] 
 }
